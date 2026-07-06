@@ -1,0 +1,20 @@
+{
+  "Thong_tin_shop": {
+    "ten_shop": "Thanh Ly Shop",
+    "dia_chi": "620 Nguyễn Nghiêm - Đức Phổ - Quảng Ngãi",
+    "dien_thoai": "0918005269",
+    "email": "contact@techshop.com",
+    "website": "https://techshop.netlify.app",
+    "slogan": "Chất lượng tạo niềm tin"
+  },
+  "Ngan_hang": [
+    {
+      "id_nh": "NH001",
+      "ten_ngan_hang": "Vietcombank",
+      "so_tai_khoan": "10123456789",
+      "chu_tai_khoan": "NGUYEN VAN A",
+      "chi_nhanh": "Chi nhánh Sài Gòn",
+      "qr_code_url": "https://api.vietqr.io/image/970436-1012345678-S9AswqE.jpg?accountName=NGUYEN%20VAN%20A"
+    }
+  ]
+}

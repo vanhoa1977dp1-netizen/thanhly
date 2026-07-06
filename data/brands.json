@@ -1,0 +1,12 @@
+[
+  {
+    "id_th": "TH001",
+    "ten_thuong_hieu": "Apple",
+    "quoc_gia": "Mỹ"
+  },
+  {
+    "id_th": "TH002",
+    "ten_thuong_hieu": "Anker",
+    "quoc_gia": "Trung Quốc"
+  }
+]

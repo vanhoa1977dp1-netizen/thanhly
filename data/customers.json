@@ -1,0 +1,13 @@
+[
+  {
+    "id_kh": "KH000001",
+    "ho_ten": "Lê Minh Hoàng",
+    "so_dien_thoai": "0933444555",
+    "email": "hoang.le@gmail.com",
+    "dia_chi": "456 Lê Hồng Phong, Quận 5, TP. HCM",
+    "loai_khach": "Thành viên",
+    "diem_tich_luy": 120,
+    "tong_chi_tieu": 15500000,
+    "cong_no": 500000
+  }
+]

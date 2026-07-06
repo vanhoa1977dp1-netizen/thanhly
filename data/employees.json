@@ -1,0 +1,22 @@
+[
+  {
+    "id_nv": "NV001",
+    "ho_ten": "Nguyễn Văn Admin",
+    "chuc_vu": "Quản lý hệ thống",
+    "so_dien_thoai": "0911222333",
+    "email": "admin@techshop.com",
+    "tai_khoan": "admin",
+    "quyen_han": "ADMIN",
+    "isActive": true
+  },
+  {
+    "id_nv": "NV002",
+    "ho_ten": "Trần Thị Thu ngân",
+    "chuc_vu": "Nhân viên bán hàng",
+    "so_dien_thoai": "0922333444",
+    "email": "thungan1@techshop.com",
+    "tai_khoan": "thungan1",
+    "quyen_han": "STAFF",
+    "isActive": true
+  }
+]

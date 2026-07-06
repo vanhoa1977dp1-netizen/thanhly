@@ -1,0 +1,30 @@
+[
+  {
+    "id_sp": "SP000001",
+    "ten_san_pham": "iPhone 15 Pro Max 256GB",
+    "id_nhom_hang": "DM001",
+    "id_thuong_hieu": "TH001",
+    "gia_von": 26000000,
+    "gia_ban": 29990000,
+    "image_url": "https://picsum.photos/200/200",
+    "ton_kho": 15,
+    "don_vi_tinh": "Cái",
+    "bar_code": "8931234567890",
+    "isActive": true,
+    "isDirectSale": true
+  },
+  {
+    "id_sp": "SP000002",
+    "ten_san_pham": "Sạc Nhanh Anker Nano 20W",
+    "id_nhom_hang": "DM002",
+    "id_thuong_hieu": "TH002",
+    "gia_von": 210000,
+    "gia_ban": 350000,
+    "image_url": "https://picsum.photos/200/200",
+    "ton_kho": 120,
+    "don_vi_tinh": "Cái",
+    "bar_code": "8931234567891",
+    "isActive": true,
+    "isDirectSale": true
+  }
+]

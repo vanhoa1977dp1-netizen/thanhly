@@ -1,0 +1,6 @@
+{
+  "name": "Thanh Ly Shop - Quản lý bán hàng",
+  "description": "Hệ thống quản lý bán hàng POS và quản lý kho hàng đồng bộ thời gian thực cho Thanh Ly Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

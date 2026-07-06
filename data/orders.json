@@ -1,0 +1,219 @@
+[
+  {
+    "id_pn": "PN000001",
+    "loai_phieu": "NHAP_HANG",
+    "ngay_lap": "2026-06-20T10:00:00Z",
+    "id_doi_tac": "NCC00001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000001",
+        "so_luong": 10,
+        "don_gia": 26000000,
+        "thanh_tien": 260000000
+      }
+    ],
+    "tong_tien": 260000000,
+    "giam_gia": 0,
+    "thuc_thu_thuc_chi": 200000000,
+    "trang_thai": "Đã nhận hàng",
+    "ghi_chu": "Còn nợ NCC 60000000 VND"
+  },
+  {
+    "id_thncc": "THNCC001",
+    "loai_phieu": "TRA_HANG_NCC",
+    "id_phieu_goc": "PN000001",
+    "id_doi_tac": "NCC00001",
+    "ngay_lap": "2026-06-22T16:00:00Z",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000001",
+        "so_luong": 1,
+        "don_gia": 26000000,
+        "thanh_tien": 26000000
+      }
+    ],
+    "tong_tien": 26000000,
+    "giam_gia": 0,
+    "thuc_thu_thuc_chi": 0,
+    "trang_thai": "Đã trừ vào công nợ",
+    "ghi_chu": "Sản phẩm móp hộp do vận chuyển"
+  },
+  {
+    "id_hd": "HD000001",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-06-25T14:30:00Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV002",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 2,
+        "don_gia": 350000,
+        "thanh_tien": 700000
+      }
+    ],
+    "tong_tien": 700000,
+    "giam_gia": 50000,
+    "thuc_thu_thuc_chi": 650000,
+    "khach_can_tra": 650000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_thd": "THD00001",
+    "loai_phieu": "KHACH_TRA_HANG",
+    "id_phieu_goc": "HD000001",
+    "ngay_lap": "2026-06-26T09:15:00Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV002",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 0,
+    "thuc_thu_thuc_chi": -350000,
+    "phuong_thuc_thanh_toan": "Chuyển khoản",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": "Khách đổi ý, muốn nâng cấp củ sạc lớn hơn"
+  },
+  {
+    "id_hd": "HD000002",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:15:20.859Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000001",
+        "so_luong": 1,
+        "don_gia": 29990000,
+        "thanh_tien": 29990000
+      }
+    ],
+    "tong_tien": 29990000,
+    "giam_gia": 20000,
+    "thuc_thu_thuc_chi": 30000000,
+    "khach_can_tra": 29960000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_hd": "HD000003",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:16:05.555Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 20000,
+    "thuc_thu_thuc_chi": 100000,
+    "khach_can_tra": 130000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_hd": "HD000004",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:16:49.603Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 200000,
+    "thuc_thu_thuc_chi": 100000,
+    "khach_can_tra": 140000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_hd": "HD000005",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:17:31.443Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 20000,
+    "thuc_thu_thuc_chi": 500000,
+    "khach_can_tra": 230000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_hd": "HD000006",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:19:18.540Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 20000,
+    "thuc_thu_thuc_chi": 500000,
+    "khach_can_tra": 310000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  },
+  {
+    "id_hd": "HD000007",
+    "loai_phieu": "BAN_HANG",
+    "ngay_lap": "2026-07-02T09:19:51.075Z",
+    "id_doi_tac": "KH000001",
+    "id_nhan_vien": "NV001",
+    "chi_tiet": [
+      {
+        "id_sp": "SP000002",
+        "so_luong": 1,
+        "don_gia": 350000,
+        "thanh_tien": 350000
+      }
+    ],
+    "tong_tien": 350000,
+    "giam_gia": 20000,
+    "thuc_thu_thuc_chi": 300000,
+    "khach_can_tra": 310000,
+    "phuong_thuc_thanh_toan": "Tiền mặt",
+    "trang_thai": "Đã hoàn thành",
+    "ghi_chu": ""
+  }
+]
